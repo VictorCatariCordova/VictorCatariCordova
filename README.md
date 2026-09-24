@@ -1,16 +1,22 @@
-## Hi there 👋
+Estudiante Analista de Sistemas 
 
-<!--
-**VictorCatariCordova/VictorCatariCordova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ISFT N°172
 
-Here are some ideas to get you started:
+Catari Cordova Victor 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Email: cataricordovavictor@gmail.com
+
+Soft Skills 
+
+Frond End 
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+Back End 
+
+[![My Skills](https://skillicons.dev/icons?i=php,cs,python,wasm)](https://skillicons.dev)
+
+
+Base de Datos 
+
+[![My Skills](https://skillicons.dev/icons?i=sqlite,wasm)](https://skillicons.dev)
